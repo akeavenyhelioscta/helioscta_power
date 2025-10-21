@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "src"
+name = "helioscta_power"
 version = "0.1.0"
 description = "Python library for HeliosCTA Power Fundies"
 authors = ["Aidan Keaveny <aidan.keaveny@helioscta.com>"]
