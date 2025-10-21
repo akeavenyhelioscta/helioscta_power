@@ -1,0 +1,19 @@
+# Build outputs
+dist/
+build/
+out/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.pytest_cache/
+.coverage
+htmlcov/
+
+# local files
+cache/
+backup_xlsm_files/
+*.pdf
